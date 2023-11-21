@@ -36,12 +36,4 @@ python demo.py
 ```
 
 
-## Results
-All the results are cited from original paper. More details can be found in the paper.
-
-| dataset  	 | OA | KC      
-|---------- |-------  |--------
-| China  | 91.28%| 0.7996
-| USA    | 91.66%| 0.8093
-
 ## Citation
