@@ -38,11 +38,11 @@ python demo.py
 
 ## Citation
 @ARTICLE{10354413,
-  author={Qu, Jiahui and Zhao, Jingyu and Dong, Wenqian and Xiao, Song and Li, Yunsong and Du, Qian},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Feature Mutual Representation Based Graph Domain Adaptive Network for Unsupervised Hyperspectral Change Detection}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TGRS.2023.3341893}}
+  <br />author={Qu, Jiahui and Zhao, Jingyu and Dong, Wenqian and Xiao, Song and Li, Yunsong and Du, Qian},
+  <br />journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  <br />title={Feature Mutual Representation Based Graph Domain Adaptive Network for Unsupervised Hyperspectral Change Detection}, 
+  <br />year={2023},
+  <br />volume={},
+  <br />number={},
+  <br />pages={1-1},
+  <br />doi={10.1109/TGRS.2023.3341893}}
